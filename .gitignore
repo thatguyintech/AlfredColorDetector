@@ -1,0 +1,23 @@
+# Built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Local config file
+local.properties
+
+# Log files
+*.log
+
+# Misc. configs
+.idea/
